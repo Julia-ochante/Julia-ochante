@@ -54,7 +54,7 @@ I’m building a portfolio of data-driven projects inspired by real-world scenar
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Julia-ochante&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Julia-ochante)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Julia-ochante&theme=material-palenight)](https://github.com/Julia-ochante)
+[![](https://github-readme-stats.vercel.app/api?username=Julia-ochante&show_icons=true&theme=buefy&hide_border=true&locale=en)](https://github.com/Julia-ochante)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Julia-ochante&theme=buefy)](https://github.com/Julia-ochante)
 </div>
 
