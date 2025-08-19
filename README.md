@@ -21,15 +21,15 @@ I’m building a portfolio of data-driven projects inspired by real-world scenar
 - Performance & KPI analysis in construction
 
 📫 Reach out to me at: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-ochante/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:julia.ochante04@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-497AA6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-ochante/)
+[![Gmail](https://img.shields.io/badge/-Gmail-BE8FBF?style=flat&logo=Gmail&logoColor=white)](mailto:julia.ochante04@gmail.com)
 
 <h4> Technical skills: </h4>
 <span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/python-1f2b38?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/mysql-39363c.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src= "https://img.shields.io/badge/Microsoft_Excel-77618C?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src= "https://img.shields.io/badge/power_bi-D4C7D9?style=for-the-badge&logo=powerbi&logoColor=black">
  
 
 
@@ -38,11 +38,11 @@ I’m building a portfolio of data-driven projects inspired by real-world scenar
 
 <h4> Libraries: </h4>
 <span>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/pandas-B9B1E0.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-B1C1E0.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-C3E4FD.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  <img src="https://img.shields.io/badge/Plotly-D0D3F7.svg?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-ECEAE4.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   
 
 
