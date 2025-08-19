@@ -14,6 +14,7 @@ Now, I’m shifting gears into Data Analytics, combining my project management b
 - Applying analytics to real-world construction challenges
 
 🚀 What I’m Working On
+
 I’m building a portfolio of data-driven projects inspired by real-world scenarios from my construction management experience and analytics training, with a focus on: 
 - Dashboards for project monitoring
 - Forecasting tools
