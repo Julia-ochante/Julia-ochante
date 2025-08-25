@@ -4,8 +4,8 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="40px">&nbsp;***About me***
 
-I am Civil Engineer turned aspiring Construction Data Analyst.
-With 8 years of experience leading and coordinating construction projects, I’ve managed schedules, budgets, and teams to deliver quality results. I’m also a PMP-certified professional who thrives on turning complexity into clarity.
+I am a Civil Engineer specialized in Data Analysis.
+With 7+ years of experience leading and coordinating construction projects, I’ve managed schedules, budgets, and teams to deliver quality results. I’m also a PMP-certified professional who thrives on turning complexity into clarity.
 
 Now, I’m shifting gears into Data Analytics, combining my project management background with tools like Python, SQL, Excel, and Power BI to uncover insights and support smarter decision-making in the construction industry.
 
